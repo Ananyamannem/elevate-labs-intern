@@ -5,7 +5,6 @@ Features :
 Add new tasks
 Mark tasks as completed
 Remove tasks
-Clear all completed tasks
 Live task count display
 
 Tech Stack :
