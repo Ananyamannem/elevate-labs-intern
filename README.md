@@ -2,13 +2,13 @@ A simple and user-friendly To-Do List application built using HTML, CSS, and van
 
 Features :
 
-Add new tasks
-Mark tasks as completed
-Remove tasks
-Live task count display
+Add new tasks,
+Mark tasks as completed,
+Remove tasks,
+Live task count display.
 
 Tech Stack :
 
-HTML
-CSS (no frameworks)
-JavaScript (vanilla)
+HTML,
+CSS,
+JavaScript (vanilla).
